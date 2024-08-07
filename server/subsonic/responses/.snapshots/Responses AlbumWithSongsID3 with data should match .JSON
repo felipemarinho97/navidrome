@@ -29,6 +29,10 @@
       {
         "disc": 2,
         "title": "disc 2"
+      },
+      {
+        "disc": 3,
+        "title": ""
       }
     ],
     "originalReleaseDate": {
@@ -81,7 +85,9 @@
           "albumPeak": 4,
           "baseGain": 5,
           "fallbackGain": 6
-        }
+        },
+        "channelCount": 0,
+        "samplingRate": 0
       }
     ]
   }
